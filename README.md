@@ -38,7 +38,7 @@ Edit
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/yourusername/macos-front-end.git
 cd macos-front-end
 2. Open in Browser
@@ -65,21 +65,6 @@ JavaScript (Vanilla or React)
 
 Optional: Tailwind, Sass, Vite, etc.
 
-📦 Deployment
-You can deploy this front-end easily via:
-
-GitHub Pages
-
-Netlify
-
-Vercel
-
-Example:
-
-bash
-Copy
-Edit
-npm run build
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
